@@ -145,6 +145,11 @@ td
 
 }
 
+thead
+{
+    font-weight: bold;
+}
+
 table
 {
     border: thin solid black;
